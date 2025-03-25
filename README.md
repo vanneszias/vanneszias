@@ -7,7 +7,7 @@ I'm a passionate software developer and a student in Applied Computer Sciences. 
 - 💻 Full-Stack Developer
 - 🎓 Student in Applied Computer Sciences
 - 🌍 Based in Brussels
-- 🔭 Currently working on a live location sharing app using React Native
+- 🔭 Currently working on a live location game using React Native
 - 🦀 Learning Rust
 - 🏠 HomeLabber
 - 🐧 I use Arch btw
